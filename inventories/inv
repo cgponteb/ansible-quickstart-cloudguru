@@ -1,0 +1,6 @@
+[vm-farm]
+vm1 ansible_host=10.204.0.18
+vm2 ansible_host=10.204.0.19
+vm3 ansible_host=10.204.0.20
+vm4 ansible_host=10.204.0.21
+vm5 ansible_host=10.204.0.22
